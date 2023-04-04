@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.btandroid1_2'
+    namespace 'com.example.phonecalling_2'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.btandroid1_2"
+        applicationId "com.example.phonecalling_2"
         minSdk 29
         targetSdk 33
         versionCode 1
